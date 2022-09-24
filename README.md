@@ -11,7 +11,7 @@ The only input is the file name of the .txt file where the corresponding paramet
 5.	The fifth row specifies the number of interior loops of lenght i>=0, separated by a space;
 6.	Starting from the 6th row, the first entry of each row specifies the degree of the multiloops, then the followed entries specify the number of multiloops of length i>=0 of that degree, separated by spaces.
 
-Please refer to an example in the file exam.txt
+Please refer to an example in the file exam.txt and trnaser1.txt
 
 
 
